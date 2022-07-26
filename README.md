@@ -8,3 +8,6 @@
 * [BDSA Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Exams & Exam Solutions](https://tbp.berkeley.edu/courses/cs/61B/)
 
+# Misc.
+* [2022 Internships](https://github.com/pittcsc/Summer2023-Internships)
+
