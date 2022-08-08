@@ -1,5 +1,5 @@
 # CodePath Links
-* [CodePath Handbook]([https://www.bigocheatsheet.com/](https://books.codepath.org/student-handbook/))
+* [CodePath Handbook](https://books.codepath.org/student-handbook/))
 
 # Coding Links
 
