@@ -1,6 +1,6 @@
 # CodePath Links
 * [CodePath Handbook](https://books.codepath.org/student-handbook/)
-
+* [Power Verbs](https://insights.dice.com/power-verbs-for-your-resume-and-cover-letter/)
 # Coding Links
 
 * [DP Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
