@@ -1,8 +1,9 @@
 # CodePath Links
 * [CodePath Handbook](https://books.codepath.org/student-handbook/)
 * [Power Verbs](https://insights.dice.com/power-verbs-for-your-resume-and-cover-letter/)
-# Coding Links
+* [Understanding How ATS Works]([https://insights.dice.com/power-verbs-for-your-resume-and-cover-letter/](https://kristenfife.medium.com/understanding-how-the-ats-reads-and-interacts-with-your-resume-401bd00b66db))
 
+# Coding Links
 * [DP Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
