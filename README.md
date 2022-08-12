@@ -1,4 +1,4 @@
-# CodePath Links
+## CodePath Links
 * [CodePath Handbook](https://books.codepath.org/student-handbook/)
 * [Power Verbs](https://insights.dice.com/power-verbs-for-your-resume-and-cover-letter/)
 * [Understanding How ATS Works](https://kristenfife.medium.com/understanding-how-the-ats-reads-and-interacts-with-your-resume-401bd00b66db)
