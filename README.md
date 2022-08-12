@@ -6,7 +6,7 @@
 # Coding Links
 * [DP Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-* [3 Ways of Iterative PostOrder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/45648/three-ways-of-iterative-postorder-traversing-easy-explanation)
+* [Iterative PostOrder Traversal - Tushar Roy](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L120)
 
 # CS61B
 * [Order of Growth](https://sp18.datastructur.es/materials/demos/asymptotics.html)
