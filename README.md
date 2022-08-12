@@ -5,6 +5,7 @@
 
 ### Classes
 * [Stanford Algorithms CS161](https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/)
+* [MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
 * [Princeton Algorithms - Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton Algorithms - Part 2](https://www.coursera.org/learn/algorithms-part2)
 
