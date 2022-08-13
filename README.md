@@ -1,5 +1,6 @@
 ### Internships
 * [2023 Internships](https://github.com/pittcsc/Summer2023-Internships)
+* [List of top Non FAANG Companies](https://www.reddit.com/r/leetcode/comments/wmm9ky/list_of_top_non_faang_companies/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 ### CS61B
 * [Order of Growth](https://sp18.datastructur.es/materials/demos/asymptotics.html)
