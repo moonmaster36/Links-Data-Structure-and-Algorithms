@@ -1,3 +1,6 @@
+### Internships
+* [2023 Internships](https://github.com/pittcsc/Summer2023-Internships)
+
 ### CS61B
 * [Order of Growth](https://sp18.datastructur.es/materials/demos/asymptotics.html)
 * [DSA Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
@@ -9,10 +12,6 @@
 * [MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
 * [Princeton Algorithms - Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton Algorithms - Part 2](https://www.coursera.org/learn/algorithms-part2)
-
-### Internships
-* [2022 Internships](https://github.com/pittcsc/Summer2023-Internships)
-
 ### CodePath Links
 * [CodePath Handbook](https://books.codepath.org/student-handbook/)
 * [Power Verbs](https://insights.dice.com/power-verbs-for-your-resume-and-cover-letter/)
