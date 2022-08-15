@@ -12,7 +12,10 @@
 ### CS61B
 * [Order of Growth](https://sp18.datastructur.es/materials/demos/asymptotics.html)
 * [DSA Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [Exams & Exam Solutions](https://tbp.berkeley.edu/courses/cs/61B/)
+
+### Exams & Solutions
+* [Berkely CS61B Exams & Solutions](https://tbp.berkeley.edu/courses/cs/61B/)
+* [Princeton COS 226 Algorithms Exams & Solutions](https://www.cs.princeton.edu/courses/archive/spr09/cos226/exams.html)
 
 ### Classes
 * [Steven Skiena Algorithms CS373](https://www3.cs.stonybrook.edu/~skiena/373/)
