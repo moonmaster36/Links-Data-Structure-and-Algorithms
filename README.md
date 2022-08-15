@@ -7,7 +7,7 @@
 * [DP Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Iterative PostOrder Traversal - Tushar Roy](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L120)
-* [Backtracking Template Python](https://leetcode.com/problems/subsets/discuss/973667/backtracking-template-explanation-visual-python)
+* [Backtracking Template - Python](https://leetcode.com/problems/subsets/discuss/973667/backtracking-template-explanation-visual-python)
 
 ### CS61B
 * [Order of Growth](https://sp18.datastructur.es/materials/demos/asymptotics.html)
