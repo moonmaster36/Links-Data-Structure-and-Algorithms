@@ -16,6 +16,7 @@
 ### Exams & Solutions
 * [Berkely CS61B Exams & Solutions](https://tbp.berkeley.edu/courses/cs/61B/)
 * [Princeton COS 226 Algorithms Exams/Solutions (2003-2009)](https://www.cs.princeton.edu/courses/archive/spr09/cos226/exams.html)
+* [Princeton COS 226 Algorithms Exams/Solutions (2006-2010)](https://www.cs.princeton.edu/courses/archive/fall10/cos226/exams.html)
 * [Princeton COS 226 Algorithms Exams/Solutions (2012-2021)](https://www.cs.princeton.edu/courses/archive/fall21/cos226/exams.php)
 
 ### Classes
