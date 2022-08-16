@@ -2,6 +2,8 @@
 * [2023 Internships](https://github.com/pittcsc/Summer2023-Internships)
 * [List of top Non FAANG Companies](https://www.reddit.com/r/leetcode/comments/wmm9ky/list_of_top_non_faang_companies/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
+### Videos
+* [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 ### Misc. Data Structures and Algorithms
 * [DP Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
