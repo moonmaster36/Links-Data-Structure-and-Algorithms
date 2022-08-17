@@ -22,6 +22,7 @@
 * [Sean Prashad LC](https://seanprashad.com/leetcode-patterns/)
 
 ### Misc. Data Structures and Algorithms
+* [Top Patterns to Conquer the Technical Coding Interview](https://algo.monster/problems/stats)
 * [DP Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Iterative PostOrder Traversal - Tushar Roy](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L120)
