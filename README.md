@@ -1,6 +1,5 @@
-### Internships
-* [2023 Internships](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README.md)
-* [CodePath Handbook](https://books.codepath.org/student-handbook/)
+### Backtracking
+* [LeetCode Backtracking Template by liaison, solution to Combination Sum](https://leetcode.com/problems/combination-sum/solution/)
 
 ### Videos
 * [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
@@ -27,11 +26,6 @@
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Iterative PostOrder Traversal - Tushar Roy](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L120)
 * [Backtracking Template - Python](https://leetcode.com/problems/subsets/discuss/973667/backtracking-template-explanation-visual-python)
-
-### Misc Interview Resources
-* [List of top Non FAANG Companies](https://www.reddit.com/r/leetcode/comments/wmm9ky/list_of_top_non_faang_companies/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-* [Power Verbs](https://insights.dice.com/power-verbs-for-your-resume-and-cover-letter/)
-* [Understanding How ATS Works](https://kristenfife.medium.com/understanding-how-the-ats-reads-and-interacts-with-your-resume-401bd00b66db)
 
 ### CS61B
 * [Order of Growth](https://sp18.datastructur.es/materials/demos/asymptotics.html)
