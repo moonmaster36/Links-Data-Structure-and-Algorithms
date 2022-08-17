@@ -1,25 +1,25 @@
-# Data Structures
+# Algorithms & Data Structures
 * [DSA Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-# Asymptotic Analysis
+## Asymptotic Analysis
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Order of Growth](https://sp18.datastructur.es/materials/demos/asymptotics.html)
 
-# Trees
+## Trees
 
-## Depth First Search (DFS)
+### Depth First Search (DFS)
 * [DFS Iterative PostOrder Traversal - Tushar Roy](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L120)
 
-## Breadth First Search (BFS)
+### Breadth First Search (BFS)
 
 # Backtracking
 * [LeetCode Backtracking Template by liaison, solution to Combination Sum](https://leetcode.com/problems/combination-sum/solution/)
 * [Backtracking Template - Python](https://leetcode.com/problems/subsets/discuss/973667/backtracking-template-explanation-visual-python)
 
-# Dynamic Programming
+## Dynamic Programming
 * [DP Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 
-# Videos
+## Videos
 * [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 # Academic Resources
