@@ -36,7 +36,10 @@
 * [Princeton COS 226 Algorithms Exams/Solutions (2006-2010)](https://www.cs.princeton.edu/courses/archive/fall10/cos226/exams.html)
 * [Princeton COS 226 Algorithms Exams/Solutions (2012-2021)](https://www.cs.princeton.edu/courses/archive/fall21/cos226/exams.php)
 
-# Misc. Links
+E-Books
+* [Massive GitHub Repo of E-Books, Cheat Sheets, Interview Books, etc. by AfshanFatima](https://github.com/AfshanFatima/ebooks_pdfs)
+
+## Misc. Links
 * [Top Patterns to Conquer the Technical Coding Interview](https://algo.monster/problems/stats)
 * [Sean Prashad LC](https://seanprashad.com/leetcode-patterns/)
 
