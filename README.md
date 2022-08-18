@@ -1,6 +1,6 @@
 # Algorithms & Data Structures
 ### Resources
-* [Free Programming Books Repo](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#algorithms--data-structures)
+* [Free DSA Books Repo](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#algorithms--data-structures)
 
 * [DSA Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
