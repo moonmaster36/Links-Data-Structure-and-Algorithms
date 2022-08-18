@@ -36,13 +36,13 @@
 * [Princeton COS 226 Algorithms Exams/Solutions (2006-2010)](https://www.cs.princeton.edu/courses/archive/fall10/cos226/exams.html)
 * [Princeton COS 226 Algorithms Exams/Solutions (2012-2021)](https://www.cs.princeton.edu/courses/archive/fall21/cos226/exams.php)
 
-#### E-Books
+# E-Books
 * [Massive GitHub Repo of E-Books, Cheat Sheets, Interview Books, etc.](https://github.com/AfshanFatima/ebooks_pdfs)
 * [Reddit Piray Megathread GitHub repo](https://github.com/magicoflolis/Reddit-Piracy-Megathread/blob/master/data/findingtextbooks.md)
 * [Free Programming Books GitHub Repo](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-en.md)
 
 
-## Misc. Links
+# Misc. Links
 * [Top Patterns to Conquer the Technical Coding Interview](https://algo.monster/problems/stats)
 * [Sean Prashad LC](https://seanprashad.com/leetcode-patterns/)
 
