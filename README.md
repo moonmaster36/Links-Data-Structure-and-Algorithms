@@ -43,7 +43,7 @@
 
 # E-Books
 * [Massive GitHub Repo of E-Books, Cheat Sheets, Interview Books, etc.](https://github.com/AfshanFatima/ebooks_pdfs)
-* [Reddit Piray Megathread GitHub repo](https://github.com/magicoflolis/Reddit-Piracy-Megathread/blob/master/data/findingtextbooks.md)
+* [Reddit Piracy Megathread GitHub repo](https://github.com/magicoflolis/Reddit-Piracy-Megathread/blob/master/data/findingtextbooks.md)
 * [Free Programming Books GitHub Repo](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-en.md)
 
 
