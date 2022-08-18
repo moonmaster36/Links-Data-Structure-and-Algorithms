@@ -50,4 +50,4 @@
 # Misc. Links
 * [Top Patterns to Conquer the Technical Coding Interview](https://algo.monster/problems/stats)
 * [Sean Prashad LC](https://seanprashad.com/leetcode-patterns/)
-
+* [xkcd DFS comic](https://xkcd.com/761/)
