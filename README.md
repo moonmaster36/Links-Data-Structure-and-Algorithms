@@ -1,5 +1,6 @@
 # Algorithms & Data Structures
 ### Resources
+* [LC Guide (PDF)](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 * [GROKKING NOTES](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4)
 * [Free DSA Books Repo](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#algorithms--data-structures)
 * [Top FAANG Interview Questions from LeetCode](https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/htmlview?urp=gmail_link#gid=1377915986)
