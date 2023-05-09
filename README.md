@@ -1,6 +1,4 @@
-# Algorithms & Data Structures
-![image](https://github.com/moonmaster36/Links-Data-Structure-and-Algorithms/assets/76980875/6f5da783-baee-4dae-a87b-2eace3c797a0)
-### Resources
+## Resources
 * [LC Guide (PDF)](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 * [Grokking - All Problems for Free](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4)
 * [Free DSA Books Repo](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#algorithms--data-structures)
