@@ -1,4 +1,5 @@
 # Algorithms & Data Structures
+![image](https://github.com/moonmaster36/Links-Data-Structure-and-Algorithms/assets/76980875/6f5da783-baee-4dae-a87b-2eace3c797a0)
 ### Resources
 * [LC Guide (PDF)](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 * [Grokking - All Problems for Free](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4)
@@ -30,15 +31,6 @@
 
 ## Videos
 * [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-
-# Academic Resources
-## Data Structure & Algorithm Classes
-* [CS61B - Berkley](https://sp21.datastructur.es/index.html)
-* [Steven Skiena Algorithms CS373](https://www3.cs.stonybrook.edu/~skiena/373/)
-* [CS61B - Berkleypshttps://sp21.datastructur.es/index.html)
-* [MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/)
-* [Princeton Algorithms - Part 1](https://www.coursera.org/learn/algorithms-part1)
-* [Princeton Algorithms - Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## Exams & Solutions
 * [Berkely CS61B Exams & Solutions](https://tbp.berkeley.edu/courses/cs/61B/)
